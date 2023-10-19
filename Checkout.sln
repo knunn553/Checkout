@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F1FC1480-761F-4068-A77B-3FBD6559B749}"
+	ProjectSection(SolutionItems) = preProject
+		styles.css = styles.css
+		store.html = store.html
+		index.html = index.html
+		about.html = about.html
+		store.js = store.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Images", "Images", "{83B5D3DE-3549-4BA5-AD97-A070C3D0240F}"
+	ProjectSection(SolutionItems) = preProject
+		Album 1.png = Album 1.png
+		Album 2.png = Album 2.png
+		Album 3.png = Album 3.png
+		Album 4.png = Album 4.png
+		Band Members.png = Band Members.png
+		Cofee.png = Cofee.png
+		Facebook Logo.png = Facebook Logo.png
+		Header Background.jpg = Header Background.jpg
+		Shirt.png = Shirt.png
+		Spotify Logo.png = Spotify Logo.png
+		Youtube Logo.png = Youtube Logo.png
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA9A129C-FF49-4E67-B9C0-5C79198412A1}
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{83B5D3DE-3549-4BA5-AD97-A070C3D0240F} = {F1FC1480-761F-4068-A77B-3FBD6559B749}
+	EndGlobalSection
+EndGlobal
